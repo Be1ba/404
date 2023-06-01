@@ -108,7 +108,7 @@
     color: #BDBDBD;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .text{
         position: absolute;
         width: 133px;
