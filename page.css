@@ -73,10 +73,6 @@
     background: #333333;
 }
 
-.button :hover{
-    background: black;
-}
-
 .text4{
     position: absolute;
     width: 150px;
@@ -93,10 +89,6 @@
     text-transform: uppercase;
 
     color: #FFFFFF;
-}
-
-.text4 :hover{
-    background: black;
 }
 
 .last{
@@ -145,9 +137,9 @@
 
     .text2{
         position: absolute;
-        width: 350px;
+        width: 500px;
         height: 142px;
-        left: 24px;
+        left: 70px;
         top: 507px;
 
         font-family: 'Space Mono', monospace;
