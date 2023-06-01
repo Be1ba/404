@@ -68,9 +68,13 @@
     position: absolute;
     width: 216px;
     height: 68px;
-    left: 740px;
+    left: 735px;
     top: 663px;
     background: #333333;
+}
+
+.button :hover{
+    background: black;
 }
 
 .text4{
@@ -91,12 +95,16 @@
     color: #FFFFFF;
 }
 
+.text4 :hover{
+    background: black;
+}
+
 .last{
     position: absolute;
     width: 300px;
     height: 17px;
     left: 777px;
-    top: 1039px;
+    top: 935px;
 
     font-family: 'Inconsolata', monospace;
     font-style: normal;
